@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 135,
+    "width": 810,
+    "height": 1080,
+    "isRotated": false,
+    "originalWidth": 1080,
+    "originalHeight": 1080
+  },
+  "imagePath": "image-targets/8_base_luminance.png",
+  "metadata": null,
+  "name": "8_base",
+  "resources": {
+    "originalImage": "8_base_original.png",
+    "croppedImage": "8_base_cropped.png",
+    "thumbnailImage": "8_base_thumbnail.png",
+    "luminanceImage": "8_base_luminance.png"
+  },
+  "created": 1789794698754,
+  "updated": 1789794698754
+}
